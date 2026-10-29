@@ -21,12 +21,15 @@ A Java-based ATM Banking Management System developed using Java Swing, JDBC, and
 ## Technologies Used
 
 - Java
-- Java Swing
+- RESTfull web-services
 - JDBC
 - MySQL
 - JCalendar
 - Eclipse IDE
 - Git & GitHub
+- HTML
+- CSS
+- 
 
 ## Project Structure
 
